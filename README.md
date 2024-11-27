@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guan-Wei
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in Verilog and Excel VBA
 - 🌱 I’m currently learning Excel VBA.
 - 📫 How to reach me ...
